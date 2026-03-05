@@ -396,7 +396,7 @@ table {
 }
 
 body {
-    background-image: url("..\images\black.jpg");
+    background-image: url("../images/black.jpg");
 }
 
 #page-wrapper {
@@ -470,7 +470,7 @@ body {
 }
 
 #content-wrapper {
-    background-image: url("..\images\repeating.png");
+    background-image: url("../images/repeating.png");
     float: left;
 }
 
